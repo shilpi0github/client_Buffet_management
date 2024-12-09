@@ -1,0 +1,48 @@
+[
+    {
+      "img": "../assets/img/burger.png",
+      "title": "African Corn",
+      "price": "Rs 600"
+    },
+    {
+      "img": "../assets/img/paneer.jpg",
+      "title": "Indian Paneer",
+      "price": "Rs 300"
+    },
+    {
+      "img": "../assets/img/biryani.jpg",
+      "title": "Chicken Biryani",
+      "price": "Rs 600"
+    },
+    {
+      "img": "../assets/img/burger.png",
+      "title": "Burger",
+      "price": "Rs 600"
+    },
+    {
+      "img": "../assets/img/burger2.png",
+      "title": "Chicken grilled",
+      "price": "Rs 600"
+    },
+    {
+      "img": "../assets/img/burger3.png",
+      "title": "Burger and coke",
+      "price": "Rs 600"
+    },
+    {
+      "img": "../assets/img/burger4.png",
+      "title": "Mix burger",
+      "price": "Rs 300"
+    },
+    {
+      "img": "../assets/img/burger5.png",
+      "title": "Grilled",
+      "price": "Rs 600"
+    },
+    {
+      "img": "../assets/img/burger6.png",
+      "title": "Cheeze burger",
+      "price": "Rs 600"
+    }
+  ]
+  

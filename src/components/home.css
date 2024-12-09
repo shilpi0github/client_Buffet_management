@@ -1,0 +1,13 @@
+@media screen and (max-width: 450px) {
+   .homecon{
+    margin-top: 130px;
+    font-size: 40px;
+   }
+  }
+
+  @media screen and (max-width: 280px) {
+    .homecon{
+     margin-top: 130px;
+     font-size: 20px;
+    }
+   }
